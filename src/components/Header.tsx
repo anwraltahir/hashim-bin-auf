@@ -48,7 +48,7 @@ export default function Header({ lang, setLang }: HeaderProps) {
           </div>
           <div className="text-white">
             <h1 className="text-lg md:text-xl leading-tight">
-              {lang === "ar" ? "م. هاشم بن عوف" : "Eng. Hashem Bin Auf"}
+              {lang === "ar" ? "هاشم ابن عوف" : "Hashim Ibn Auf"}
             </h1>
             <p className="text-[10px] md:text-xs opacity-80 uppercase tracking-wider">
               {lang === "ar" ? "وزير البنية التحتية والنقل السابق" : "Former Minister of Infrastructure & Transport"}

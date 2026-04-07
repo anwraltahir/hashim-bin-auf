@@ -33,11 +33,11 @@ export default function Hero({ lang }: HeroProps) {
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight">
                 {lang === "ar" ? (
                   <>
-                    م. هاشم <span className="text-accent">بن عوف</span>
+                    هاشم <span className="text-accent">ابن عوف</span>
                   </>
                 ) : (
                   <>
-                    Eng. Hashem <span className="text-accent">Bin Auf</span>
+                    Hashim <span className="text-accent">Ibn Auf</span>
                   </>
                 )}
               </h1>
@@ -85,7 +85,7 @@ export default function Hero({ lang }: HeroProps) {
             <div className="relative z-10 aspect-[4/5] rounded-3xl overflow-hidden border-4 border-accent/20 shadow-2xl">
               <img
                 src="https://picsum.photos/seed/hashem/800/1000"
-                alt="Eng. Hashem Bin Auf"
+                alt="Hashim Ibn Auf"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
               />

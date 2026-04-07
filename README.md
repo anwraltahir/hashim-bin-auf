@@ -1,6 +1,6 @@
-# Eng. Hashem Bin Auf - Personal Website
+# Hashim Ibn Auf - Personal Website
 
-This project is a complete, production-ready personal website for Eng. Hashem Bin Auf, Former Minister of Infrastructure and Transport – Sudan.
+This project is a complete, production-ready personal website for Hashim Ibn Auf, Former Minister of Infrastructure and Transport – Sudan.
 
 ## 🧱 Tech Stack
 

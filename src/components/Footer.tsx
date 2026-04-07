@@ -20,7 +20,7 @@ export default function Footer({ lang }: FooterProps) {
               </div>
               <div>
                 <h2 className="text-xl font-bold leading-tight">
-                  {lang === "ar" ? "م. هاشم بن عوف" : "Eng. Hashem Bin Auf"}
+                  {lang === "ar" ? "هاشم ابن عوف" : "Hashim Ibn Auf"}
                 </h2>
                 <p className="text-xs opacity-60 uppercase tracking-wider">
                   {lang === "ar" ? "وزير البنية التحتية والنقل السابق" : "Former Minister of Infrastructure & Transport"}
@@ -82,7 +82,7 @@ export default function Footer({ lang }: FooterProps) {
         </div>
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-xs opacity-50">
-          <p>© {currentYear} {lang === "ar" ? "م. هاشم بن عوف. جميع الحقوق محفوظة." : "Eng. Hashem Bin Auf. All rights reserved."}</p>
+          <p>© {currentYear} {lang === "ar" ? "هاشم ابن عوف. جميع الحقوق محفوظة." : "Hashim Ibn Auf. All rights reserved."}</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">{lang === "ar" ? "سياسة الخصوصية" : "Privacy Policy"}</a>
             <a href="#" className="hover:text-white transition-colors">{lang === "ar" ? "شروط الاستخدام" : "Terms of Use"}</a>

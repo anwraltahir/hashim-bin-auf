@@ -31,7 +31,7 @@ export default function About({ lang }: AboutProps) {
               className="flex flex-col gap-6"
             >
               <h2 className="text-3xl md:text-5xl font-bold text-primary border-r-8 border-accent pr-6">
-                {lang === "ar" ? "عن م. هاشم بن عوف" : "About Eng. Hashem Bin Auf"}
+                {lang === "ar" ? "عن هاشم ابن عوف" : "About Hashim Ibn Auf"}
               </h2>
               <p className="text-lg text-text-dark/80 leading-relaxed whitespace-pre-line">
                 {lang === "ar" ? bioData.fullBioAr : bioData.fullBioEn}

@@ -114,7 +114,7 @@ export default function Vision({ lang }: VisionProps) {
             <div className="flex flex-col items-center gap-2">
               <div className="w-12 h-1 bg-accent rounded-full" />
               <p className="text-accent font-bold uppercase tracking-widest text-sm">
-                {lang === "ar" ? "م. هاشم بن عوف" : "Eng. Hashem Bin Auf"}
+                {lang === "ar" ? "هاشم ابن عوف" : "Hashim Ibn Auf"}
               </p>
             </div>
           </div>

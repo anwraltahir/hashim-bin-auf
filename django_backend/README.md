@@ -1,4 +1,4 @@
-# Django Backend Equivalent for Eng. Hashem Bin Auf - Personal Website
+# Django Backend Equivalent for Hashim Ibn Auf - Personal Website
 
 This directory contains the equivalent Django code for the backend API.
 

@@ -13,12 +13,12 @@ async function startServer() {
 
   // Mock Data
   const biography = {
-    name: "Eng. Hashem Bin Auf",
+    name: "Hashim Ibn Auf",
     title: "Former Minister of Infrastructure and Transport – Sudan",
-    fullBioAr: `المهندس هاشم محمد بن عوف هو قائد متميز وخبير محترف في مجال البنية التحتية والنقل. مع أكثر من 25 عاماً من الخبرة في الولايات المتحدة، غرب آسيا، وشمال أفريقيا، عمل كمستشار تنفيذي متخصص في وضع السياسات العامة، التطوير الاستراتيجي، التخطيط الحضري، والنقل.
+    fullBioAr: `هاشم ابن عوف هو قائد متميز وخبير محترف في مجال البنية التحتية والنقل. مع أكثر من 25 عاماً من الخبرة في الولايات المتحدة، غرب آسيا، وشمال أفريقيا، عمل كمستشار تنفيذي متخصص في وضع السياسات العامة، التطوير الاستراتيجي، التخطيط الحضري، والنقل.
 
 بصفته وزير البنية التحتية والنقل السابق في السودان (2020-2021)، قاد إصلاحات وطنية حاسمة، شملت التغييرات الهيكلية المؤسسية، التعديلات التشريعية، واستعادة الأصول الوطنية الرئيسية. تعتمد فلسفته القيادية على التنمية المستدامة، الشراكات الاستراتيجية، وتحديث البنية التحتية لدفع عجلة النمو الوطني.`,
-    fullBioEn: `Eng. Hashem Bin Auf is a distinguished leader and professional in the field of infrastructure and transport. With over 25 years of experience across the USA, West Asia, and North Africa, he has served as an Executive Advisor specialized in Public Policy making, Strategic Development, Urban Planning, and Transport.
+    fullBioEn: `Hashim Ibn Auf is a distinguished leader and professional in the field of infrastructure and transport. With over 25 years of experience across the USA, West Asia, and North Africa, he has served as an Executive Advisor specialized in Public Policy making, Strategic Development, Urban Planning, and Transport.
 
 As the former Minister of Infrastructure and Transport in Sudan (2020-2021), he led critical national reforms, including institutional structural changes, legislative amendments, and the revival of key national assets. His leadership philosophy centers on sustainable development, strategic partnerships, and modernization of infrastructure to drive national growth.`,
     education: [
@@ -101,7 +101,7 @@ As the former Minister of Infrastructure and Transport in Sudan (2020-2021), he 
       id: 1,
       title: "Inauguration of the Kosti Free Zone",
       date: "2020-11-15",
-      summary: "Minister Hashem Bin Auf inaugurates the Kosti Free Zone and its port with the State of South Sudan.",
+      summary: "هاشم ابن عوف يفتتح منطقة كوستي الحرة وميناءها مع دولة جنوب السودان.",
       content: "Full article content here..."
     },
     {
