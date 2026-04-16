@@ -23,7 +23,7 @@ export default function Footer({ lang }: FooterProps) {
                   {lang === "ar" ? "هاشم ابن عوف" : "Hashim Ibn Auf"}
                 </h2>
                 <p className="text-xs opacity-60 uppercase tracking-wider">
-                  {lang === "ar" ? "وزير البنية التحتية والنقل السابق" : "Former Minister of Infrastructure & Transport"}
+                  {lang === "ar" ? "مستشار البنى التحتية والنقل" : "Infrastructure & Transport Consultant"}
                 </p>
               </div>
             </div>
